@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300&family=Roboto+Mono:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200&display=swap');
+
+.fff {
+position: sticky;
+}
+.ssa {
+    font-family: 'Cormorant SC', serif;
+    font-size: 40px;
+    font-weight: 900;
+}
+.topp {
+    font-family: 'Cormorant SC', serif;
+    font-size: 40px; 
+    font-weight: 900;
+}
+.cfr {
+    font-family: 'Cormorant SC', serif;
+    font-size: 40px; 
+    font-weight: 900;
+
+}
+.bvc {
+    font-family: 'Cormorant SC', serif;
+    font-size: 40px; 
+    font-weight: 900;
+}
+.toop {
+    font-family: 'Cormorant SC', serif;
+    font-size: 40px;
+    font-weight: 900; 
+}
+.asdf {
+    font-family: 'Cormorant SC', serif;
+    font-size: 40px;
+    font-weight: 900;  
+}
+.mju {
+    font-family: 'Cormorant SC', serif;
+    font-size: 40px;
+    font-weight: 900;  
+}
+.ghy {
+    font-family: 'Cormorant SC', serif;
+    font-size: 40px;
+    font-weight: 900;  
+} 
+
+.ert {
+    font-family: 'Cormorant SC', serif;
+    font-size: 40px;
+    font-weight: 900;  
+} 
+.nbgh{
+    
+        background:rgb(230, 224, 224);
+        padding: 10px 25px;
+        color:rgb(241, 52, 52);
+        border: none;
+        border-radius: 35px;
+        font-family: "Nunito";
+        font-weight: 800;
+        cursor: pointer;
+        margin: 20px 0px;
+        transition: all 0.5s ease;
+        font-size: 23px;
+        
+
+    }
+    .lkj{
+        text-decoration: none;
+    }
+    
+    .nbgh:hover {
+        background:limegreen;
+    }
+
+     .oiu {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 30px;
+        font-weight: 500;
+       }
+       .bnm {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 25px;
+        font-weight: 600;
+        border-radius: 10px;
+       }
+       .kiuyt:hover {
+        background-color:white;
+        color: black;
+        /* background-color: chartreuse;
+        color: black;
+         */
+       border-radius: 20px;
+       
+       }
+       .xcfd {
+        color: black;
+       }
+       
+       
+       .asdfg {
+        transition: all 0.5s ease;
+        color:black;
+        background:lightblue;
+
+
+       }
+       .asdfg:hover {
+        background:red;
+       }
+       .tghy {
+        margin-top: 0.6cm;
+        margin-left: 1.5cm;
+        
+        /* padding-left: 1.5cm;
+        padding-top: 1cm; */
+
+    }
+    img {
+        border-radius: 15px;
+    }
+    .sedrf {
+        text-decoration: none;
+        font-size: 20px;
+        color:black;
+        
+    }
+    .loik {
+        text-decoration: none;
+        font-size: 20px;
+        color:black;
+    }
+    .nhjm {
+        background-color:#fff ;
+        font-size: 20px;
+    }
+    .nhjm:hover {
+        background-color:grey;
+    }
+    ul {
+        text-decoration: none;
+    }
+    
